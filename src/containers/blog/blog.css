@@ -1,0 +1,15 @@
+@media screen and (max-width: 990px) {
+    .gpt3__blog-container_groupA .gpt3__blog-container_article  {
+        width: 48%;
+    }
+
+    .gpt3__blog-container_groupA .gpt3__blog-container_article-image {
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .gpt3__blog-container_groupA .gpt3__blog-container_article  {
+        width: 100%;
+    }
+}
