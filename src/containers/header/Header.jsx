@@ -6,12 +6,8 @@ const Header = () => {
     return (
         <div className="section__padding flex md:flex-col" id="home">
             <div className="flex flex-1 justify-center align-baseline flex-col mr-[5rem] md:mb-[3rem]">
-                <h1 className="gradient__text font-family font-extrabold text-[62px] leading-[75px] tracking-tighter ss:text-[48px] ss:leading-[60px] xs:text-[36px] xs:leading-[48px]"> Let's
-                    Build Something amazing with GPT-3 OpenAI</h1>
-                <p className="font-manRope text-[20px] leading-[27px] mt-[1.5rem] text-text ss:text-[16px] ss:leading-[24px] xs:text-[14px] xs:leading-[24px]">Yet
-                    bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing.
-                    Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow
-                    asked of.</p>
+                <h1 className="gradient__text font-family font-extrabold text-[62px] leading-[75px] tracking-tighter ss:text-[48px] ss:leading-[60px] xs:text-[36px] xs:leading-[48px]">Empower Your Vision with GPT-3: Redefine Possibilities</h1>
+                <p className="font-manRope text-[20px] leading-[27px] mt-[1.5rem] text-text ss:text-[16px] ss:leading-[24px] xs:text-[14px] xs:leading-[24px]">Unleash GPT-3's Power: Elevate your applications with 175 billion-parameter AI. Create human-like content, understand context, and solve challenges with ease. Join the future of technology today.</p>
                 <div className="w-full mt-[2rem] mb-[1rem] flex">
                     <input type="email" placeholder="Your Email Address"
                            className="bg-footer rounded-r flex-2 w-full min-w-[50px] font-manRope text-[20px] leading-[27px] text-white outline-none px-[1rem] border-footer border-solid ss:text-[16px] ss:leading-[24px] xs:text-[12px] xs:leading-[16px]"/>

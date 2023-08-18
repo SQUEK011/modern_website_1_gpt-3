@@ -1,12 +1,13 @@
 import React, {useState} from 'react';
 import {RiMenu3Line, RiCloseLine} from "react-icons/ri";
 import "./navbar.css"
+import logo from '../../assets/logo.svg';
 
 const Menu = () => (
     <>
         <p className="navbar__p"><a href="#home">Home</a></p>
-        <p className="navbar__p"><a href="#whatGPT3">What is XHacks?</a></p>
-        <p className="navbar__p"><a href="#possibility">SecureGuard</a></p>
+        <p className="navbar__p"><a href="#whatGPT3">What is GPT-3?</a></p>
+        <p className="navbar__p"><a href="#possibility">OpenAI</a></p>
         <p className="navbar__p"><a href="#features">Features</a></p>
         <p className="navbar__p"><a href="#blog">Blogs</a></p>
     </>
@@ -17,7 +18,7 @@ const Navbar = () => {
         <div className="navbar flex justify-between items-center py-[2rem] px-[6rem] ss:py-[2rem] ss:px-[4rem] xs:p-[2rem]">
             <div className="navbar-links flex flex-1 justify-start items-center">
                 <div className="navbar-links_logo mr-[2rem]">
-                    <p className="text-[18px] text-white font-manRope font-extrabold">XHacks</p>
+                    <a href="#home"><img src={logo} alt={"GPT-3"}/></a>
                 </div>
                 <div className="navbar-links_container flex flex-row md:hidden m-auto">
                     <Menu/>

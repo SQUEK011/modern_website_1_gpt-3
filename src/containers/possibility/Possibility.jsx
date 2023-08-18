@@ -13,9 +13,7 @@ const Possibility = () => {
                     to Get Started</h4>
                 <h1 className="gradient__text font-manRope font-[800] text-[34px] leading-[45px] m-[1rem_0]">The
                     possibilities are <br/> beyond your imagination</h1>
-                <p className="font-manRope font-[400] text-[16px] leading-[30px] mb-[2rem] text-text">Yet bed any for
-                    travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way
-                    everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+                <p className="font-manRope font-[400] text-[16px] leading-[30px] mb-[2rem] text-text">Ready to integrate the power of GPT-3 into your projects? Join the AI revolution and experience unparalleled language capabilities.</p>
                 <h4 className="text-subtext font-manRope font-[500] text-[16px] leading-[30px]">Request Early Access to
                     Get Started</h4>
             </div>

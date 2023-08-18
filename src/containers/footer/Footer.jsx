@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="gpt3__footer flex flex-col justify-center items-center bg-footer section__padding">
             <div className="gpt3__footer-heading w-full text-center mb-[3rem]">
                 <h1 className="gradient__text font-manRope font-[800] text-[64px] leading-[75px] md:text-[44px] md:leading-[50px] ss:text-[34px] ss:leading-[42px] xs:text-[27px] xs:leading-[38px]">Do you want to step in
-                    to the future before others</h1>
+                    to the future before others?</h1>
             </div>
 
             <div
